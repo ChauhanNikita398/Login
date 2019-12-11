@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="emailtext">Username</string>
+    <string name="passwordtext">Password</string>
+    <string name="Button">Sign Up</string>
+    <string name="Textview">Have an account? SignIn here</string>
+    <string name="Button2">Sign In</string>
+    <string name="Textview2">Register here</string>
+    <string name="logout">LogOut</string>
+</resources>
